@@ -1,2 +1,2 @@
-# Sales-Forecasting-Model-Using-Pyhton
+# Sales-Forecasting-Model-Using-Python
 This project is focused on addressing the client's need for accurate sales predictions. Historical sales data was analyzed, and exploratory data analysis (EDA) identified key trends. The impact of different advertising methods (TV, Radio, Newspaper) on sales was assessed, showing how changes in advertising spend affect sales. A linear regression model was developed to provide precise sales forecasts. This model aids clients in enhancing sales strategies, refining marketing efforts, targeting the most effective advertising channel and improving profitability by leveraging data-driven insights.
